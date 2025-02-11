@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "EUZLFh98XdwitSFDC5NNm6LXCgzlEG3kJIziVmbNJds=",
+  "Source": "AuthApplication",
+  "BasePath": "_content/AuthApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
